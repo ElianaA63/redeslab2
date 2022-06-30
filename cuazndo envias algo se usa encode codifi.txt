@@ -1,0 +1,3 @@
+cuazndo envias algo se usa encode codifica a ascii y cuando recibo se decodifica  ascii
+ascii es un formato de numeros que se le asigna a cada una de las letras y numeros del alfabeto
+base 64 lo usamos para codificar los archivpos que enviamos
